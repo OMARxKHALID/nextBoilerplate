@@ -20,15 +20,10 @@ NEXTAUTH_SECRET = ...
 NODE_ENV = development
 ```
 
-### Install credentials.
+### Install credentials & Run the app
 
 ```shell
 npm install 
-...
-
-### Run the app
-
-```shell
 npm run dev
 ```
  
